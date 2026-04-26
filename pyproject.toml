@@ -1,0 +1,11 @@
+[project]
+name = "rl-2agents-chase"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "networkx>=3.6.1",
+    "torch>=2.11.0",
+    "trl>=1.2.0",
+]
